@@ -1,0 +1,10 @@
+{
+    "admin": {
+        "password": "$2b$12$nxyZgw2BYDZxH3fGswI/X.bp3WiNhU88Kax/Lon.W43mietz/kyE.",
+        "is_admin": true
+    },
+    "seth": {
+        "password": "$2b$12$hs25VAX4do0SsrNT7kgDFecOpABQORlziGbtvS3AjtKvpGVF5Z506",
+        "is_admin": false
+    }
+}
