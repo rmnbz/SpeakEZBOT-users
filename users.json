@@ -1,14 +1,10 @@
 {
     "admin": {
-        "password": "$2b$12$nxyZgw2BYDZxH3fGswI/X.bp3WiNhU88Kax/Lon.W43mietz/kyE.",
+        "password": "$2b$12$wQmZtV6k1y6WlqGx0X9/0u8F3pI7Fz5dM0uE1nBvE4tZ1Hn8Oe1Pe",
         "is_admin": true
     },
-    "seth": {
-        "password": "$2b$12$hs25VAX4do0SsrNT7kgDFecOpABQORlziGbtvS3AjtKvpGVF5Z506",
+    "sxseth": {
+        "password": "$2b$12$zY7m6uD5vYf8pCqXk1T5KeM2uQeA7GvJ2bH4NfX9cR1LzM6WjP8yS",
         "is_admin": false
     }
-
-}
-{
-  "sxseth": {"password": "sxseth123", "is_admin": false}
 }
