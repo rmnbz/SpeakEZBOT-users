@@ -7,4 +7,8 @@
         "password": "$2b$12$hs25VAX4do0SsrNT7kgDFecOpABQORlziGbtvS3AjtKvpGVF5Z506",
         "is_admin": false
     }
+
+}
+{
+  "sxseth": {"password": "sxseth123", "is_admin": false}
 }
